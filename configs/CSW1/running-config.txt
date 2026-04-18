@@ -1,0 +1,5 @@
+# CSW1 Running Configuration
+# Run: show running-config  on CSW1 in Packet Tracer
+# Paste output below this line
+# ---------------------------------------------------------------
+

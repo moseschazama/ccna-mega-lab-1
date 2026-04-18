@@ -1,0 +1,12 @@
+# R1 Running Configuration
+# Paste the output of: show running-config
+# Run on R1 in Packet Tracer and paste below
+#
+# To get it:
+#   R1# show running-config
+#   Then copy everything from "Building configuration..." to the end.
+#
+# ---------------------------------------------------------------
+# PASTE YOUR RUNNING CONFIG BELOW THIS LINE
+# ---------------------------------------------------------------
+

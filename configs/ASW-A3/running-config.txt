@@ -1,0 +1,5 @@
+# ASW-A3 Running Configuration
+# Run: show running-config  on ASW-A3 in Packet Tracer
+# Paste output below this line
+# ---------------------------------------------------------------
+
