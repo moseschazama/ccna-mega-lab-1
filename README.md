@@ -20,7 +20,7 @@
 ---
 
 ## 🗺️ Network Topology
-./topology.png
+![Network Topology](topology.png)
 ---
 
 ## 📚 Lab Parts Overview
