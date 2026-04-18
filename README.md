@@ -20,11 +20,7 @@
 ---
 
 ## 🗺️ Network Topology
-
-```<img width="663" height="414" alt="image" src="https://github.com/user-attachments/assets/467d713b-cefd-45a9-8bd5-251e7ccdf2a8" />
-
-```
-
+./topology.png
 ---
 
 ## 📚 Lab Parts Overview
