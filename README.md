@@ -292,7 +292,7 @@ Browse any device folder under `configs/` to see the full running configuration 
 ## 📖 Credits
 
 Lab design by [Jeremy's IT Lab](https://www.jeremysitlab.com/) — CCNA Mega Lab.  
-Configurations completed and documented by [Your Name].
+Configurations completed and documented by MOSES CHAZAMA.
 
 ---
 
