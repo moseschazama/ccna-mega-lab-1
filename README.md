@@ -21,25 +21,8 @@
 
 ## 🗺️ Network Topology
 
-```
-                         Internet
-                            |
-                    ┌───────┴───────┐
-                  (ISP-A)        (ISP-B)
-                    │               │
-                  G0/0/0         G0/1/0
-                    └──────┬────────┘
-                           R1
-                      G0/0   G0/1
-                       │       │
-                     CSW1 ─── CSW2   (Layer-3 EtherChannel Po1)
-                    / │ │ │ │   │ │ │ │ \
-              DSW-A1 DSW-A2   DSW-B1  DSW-B2
-              /   \   /   \   /   \   /   \
-          ASW-A1 ASW-A2 ASW-A3  ASW-B1 ASW-B2 ASW-B3
-            |      |      |       |      |      |
-          WLC1   PCs   Phones   LWAPs  Phones  SRV1
-          LWAP1        PC1/2          PC3
+```<img width="663" height="414" alt="image" src="https://github.com/user-attachments/assets/467d713b-cefd-45a9-8bd5-251e7ccdf2a8" />
+
 ```
 
 ---
